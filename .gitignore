@@ -1,0 +1,5 @@
+# .gitignore
+# Abaikan file environment
+.env
+logs/
+node_modules/
